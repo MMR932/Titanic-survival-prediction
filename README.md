@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA): 📊 Visualizing the data to uncover patterns a
 
 Feature Engineering: Creating new, informative features from the existing data to improve model performance.
 
-Model Building & Comparison: 🤖 Implementing and comparing three different classification models:
+Model Building & Comparison: Implementing and comparing three different classification models:
 
 Logistic Regression
 
